@@ -1,0 +1,32 @@
+Revese a string
+Revese a string like - today was great -> yadot saw taerg
+Check if 2 strings are ismorphic
+edit distance
+length of longest valid substring
+range questions -
+	Find the longest substring with k unique characters in a given string
+	Manacher’s Algorithm – Linear Time Longest Palindromic Substring
+	
+Palindromes
+given a string print all palindromic partitions
+Find all distinct palindromic sub-strings of a given string
+
+Transform one string into another (edit distance)
+Remove spaces from a string
+online algorithm to check palindrome in a stream
+Find maximum depth of nested parenthesis in a string
+
+Given two strings, find if first string is a subsequence of second
+Given a sorted dictionary of an alien language, find order of characters
+
+Check if a given string is a rotation of a palindrome
+Print all possible words from phone digits
+
+Printing Longest Common Subsequence
+Rearrange a string so that all same characters become d distance away
+
+Write your own atoi()
+Find the first non-repeating character from a stream of characters
+Count words in a given string
+
+
